@@ -91,44 +91,10 @@ Below are some screenshots of the app in action:
 
 ## Project Structure
 
-.
-├── App.tsx
-├── README.md
-├── tests
-│   ├── CommentCard.test.tsx
-│   ├── PostCard.test.tsx
-│   ├── UserAvatar.test.tsx
-│   └── snapshots
-│   ├── CommentCard.test.tsx.snap
-│   ├── PostCard.test.tsx.snap
-│   └── UserAvatar.test.tsx.snap
-├── app.json
-├── assets
-│   ├── adaptive-icon.png
-│   ├── favicon.png
-│   ├── icon.png
-│   └── splash.png
-├── babel.config.js
-├── components
-│   ├── CommentCard.tsx
-│   ├── PostCard.tsx
-│   └── UserAvatar.tsx
-├── navigation
-│   └── AppNavigator.tsx
-├── package-lock.json
-├── package.json
-├── screens
-│   ├── HomeScreen.tsx
-│   ├── PostDetailsScreen.tsx
-│   └── SplashScreen.tsx
-├── screenshots
-│   ├── 1.png
-│   ├── 2.png
-│   └── 3.png
-├── services
-│   └── api.ts
-├── tailwind.config.js
-└── tsconfig.json
+/screens
+/components
+/services
+/tests
 
 ## Time Taken
 
