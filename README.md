@@ -15,6 +15,7 @@
     - [Post Details](#post-details)
     - [User Comments](#user-comments)
   - [Project Structure](#project-structure)
+  - [Bouns](#bouns)
   - [Time Taken](#time-taken)
 
 ## Description
@@ -95,6 +96,11 @@ Below are some screenshots of the app in action:
 - /components
 - /services
 - /tests
+
+## Bouns
+
+- UI/UX and animations done
+- Unit testing done
 
 ## Time Taken
 
