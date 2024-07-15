@@ -91,9 +91,9 @@ Below are some screenshots of the app in action:
 
 ## Project Structure
 
-/screens
-/components
-/services
+/screens \n
+/components \n
+/services \n
 /tests
 
 ## Time Taken
